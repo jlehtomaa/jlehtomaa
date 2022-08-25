@@ -2,7 +2,7 @@
 
 I'm Jere, currently a doctoral candidate at ETH Zurich. I'm interested in machine learning, uncertainty quantification, optimal control, economic dynamics, and climate change risks.
 
-:point_up_2: I'm actively looking for work (Switzerland / remote) in these areas with possible start date in early 2023.
+:mega: I'm actively looking for work (Switzerland / remote) in these :point_up_2: areas with possible start date in early 2023.
 
 ### Short bio :mortar_board:
 * [ ] D.Sc. at ETH Zurich at the Chair of Integrative Risk Management and Economics
