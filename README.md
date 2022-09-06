@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jere, currently a doctoral candidate at ETH Zurich. I'm interested in machine learning, uncertainty quantification, probabilistic (risk-aware) control, economic dynamics, and climate change risks.
+I'm Jere, currently a doctoral candidate at ETH Zurich. I'm interested in reinforcement learning, uncertainty quantification, probabilistic (risk-aware) control, economic dynamics, and climate change risks.
 
 :mega: I'm actively looking for work (Switzerland / remote) in these :point_up_2: areas with possible start date in early 2023.
 
