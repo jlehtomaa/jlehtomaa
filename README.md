@@ -4,6 +4,6 @@ I'm Jere. I'm interested in sequential decision problems, dynamic programming, r
 
 
 ### Short bio :mortar_board:
-* [x] D.Sc. at ETH Zurich at the Chair of Integrative Risk Management and Economics
+* [x] D.Sc. in Economics / Optimal Control at ETH Zurich
 * [x] M.Sc. in Environmental Economics at University of Helsinki
 * [x] B.Sc. in Environmental Economics at University of Helsinki
